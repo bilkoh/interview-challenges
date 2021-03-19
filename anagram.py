@@ -41,7 +41,7 @@ b = "Joyful Fourth"
 ret = anagram(a, b)
 print("Is anagram?", ret)
 
-# Uncomment &run the code below if you want to test between the two solutions
+# Uncomment & run the code below if you want to test between the two solutions
 # my results were:
 # sort speed: 0.0034900999999999405
 # list speed: 0.004490499999999953
